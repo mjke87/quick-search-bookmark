@@ -1,0 +1,1 @@
+javascript:(function(i){i=document.querySelector('input[type=search],input[type=text][name*=search],input[type=text][name=s],input[type=text][name=q],input[type=text][id*=search],input[role=search],[role=search] input');i&&(i.focus()||i.select());})();
